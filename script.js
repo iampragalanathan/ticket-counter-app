@@ -18,4 +18,16 @@
 
 // print(),print(),print()
 
+let button=document.getElementById("btn")
+console.log("dummy")
 
+function printMessage(){
+
+    button.textContent="Click Here"
+    button.style.fontFamily="italics sans-serif"
+    button.style.backgroundColor="palepink"
+    button.style.color="red"
+    button.style.border="2px"
+    button.style.fontSize="20px"
+    console.log("btn clicked")
+}
