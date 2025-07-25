@@ -60,5 +60,5 @@ console.log("increase")
 function count(){
 
     count=increament-btn +1
-    console.log("increament-btn")
+    console.log("count")
 }
