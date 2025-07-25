@@ -18,19 +18,37 @@
 
 // print(),print(),print()
 
-let button=document.getElementById("btn")
-console.log("dummy")
+// let button=document.getElementById("btn")
+// console.log("dummy")
 
-function printMessage(){
+// function printMessage(){
 
-    button.textContent="Click Here"
-    button.style.fontFamily="italics sans-serif"
-    button.style.backgroundColor="blue"
+//     button.textContent="Click Here"
+//     button.style.fontFamily="italics sans-serif"
+//     button.style.backgroundColor="blue"
    
-    button.style.color="red"
-    button.style.border="2px solid red"
-    button.style.fontSize="20px"
-    button.style.borderRadius="10px"
-    button.style.borderRightColor="magenta"
-    console.log("bt")
-}
+//     button.style.color="red"
+//     button.style.border="2px solid red"
+//     button.style.fontSize="20px"
+//     button.style.borderRadius="10px"
+//     button.style.borderRightColor="magenta"
+//     console.log("bt")
+// }
+
+
+
+
+// let likes=0
+// button.document.getElementById("btn1")
+
+// function increase(){
+
+    
+//     console.log(likes)
+
+//     likes=like+1
+//     console.log(likes)
+
+
+// }
+
