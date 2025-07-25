@@ -14,4 +14,4 @@ let num2=8
 let num3=2003
 
 let sum=num1+num2+num3;
-console.log("The sum is" +sum);
+console.log("The sum is" +sum)
