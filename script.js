@@ -12,6 +12,8 @@ function print(){
     console.log(8)
     console.log(2003)
 
-    console.log()
+    console.log("My nmae is Pragalanathan")
 
 }
+
+print(),print(),print()
