@@ -53,4 +53,12 @@
 // }
 
 let button=document.getElementById("increament-btn")
-console.log("")
+console.log("increase")
+
+
+
+function count(){
+
+    count=increament-btn +1
+    console.log("increament-btn")
+}
