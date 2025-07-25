@@ -52,13 +52,11 @@
 
 // }
 
-let button=document.getElementById("increament-btn")
-console.log("increase")
+let countEl=document.getElementById("count-el")
+let count=0
 
+function increament(){
 
-
-function count(){
-
-    count=increament-btn +1
-    console.log("count")
+    count=count +1
+    countEl.textContent=count
 }
