@@ -27,7 +27,7 @@ function printMessage(){
     button.style.fontFamily="italics sans-serif"
     button.style.backgroundColor="palepink"
     button.style.color="red"
-    button.style.border="2px"
+    button.style.border="2px solid red"
     button.style.fontSize="20px"
     console.log("bt")
 }
