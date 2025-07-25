@@ -5,5 +5,7 @@
 
 function print(){
 
-    let sum
+    let sum=10+30
+    console.log(sum)
+    
 }
