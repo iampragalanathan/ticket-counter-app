@@ -25,9 +25,12 @@ function printMessage(){
 
     button.textContent="Click Here"
     button.style.fontFamily="italics sans-serif"
-    button.style.backgroundColor="palepink"
+    button.style.backgroundColor="blue"
+   
     button.style.color="red"
     button.style.border="2px solid red"
     button.style.fontSize="20px"
+    button.style.borderRadius="10px"
+    button.style.borderRightColor="magenta"
     console.log("bt")
 }
