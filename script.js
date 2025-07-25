@@ -9,7 +9,7 @@ function print(){
     console.log(sum)
 
     console.log(15)
-    console.log(08)
+    console.log(8)
     console.log(2003)
 
     console.log("My nmae is Pragalanathan")
