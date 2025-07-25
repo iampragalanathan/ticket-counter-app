@@ -1,5 +1,9 @@
-let text=document.getElementById("head")
-console.log(text)
+// let text=document.getElementById("head")
+// console.log(text)
 
-document.getElementById("btn").textContent="here"
+// document.getElementById("btn").textContent="here"
 
+function print(){
+
+    let sum
+}
