@@ -60,3 +60,11 @@ function increament(){
     count=count +1
     countEl.textContent=count
 }
+
+let saveEl=document.getElementById("save-el")
+let reset=0
+
+function decreament(){
+
+    
+}
