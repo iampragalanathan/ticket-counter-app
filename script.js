@@ -69,7 +69,7 @@ let saveEl=document.getElementById("save-el")
 function save(){
   
     
-    saveEl.textContent = saveEl.textContent  + count +"-"
+    saveEl.textContent = saveEl.textContent  + count +" - "
     count=0
     countEl.textContent=  count - count
 
