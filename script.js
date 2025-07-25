@@ -29,5 +29,5 @@ function printMessage(){
     button.style.color="red"
     button.style.border="2px"
     button.style.fontSize="20px"
-    console.log("btn clicked")
+    console.log("bt")
 }
