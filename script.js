@@ -52,4 +52,5 @@
 
 // }
 
-let bu
+let button=document.getElementById("increament-btn")
+console.log("")
