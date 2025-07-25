@@ -3,18 +3,19 @@
 
 // document.getElementById("btn").textContent="here"
 
-function print(){
+// function print(){
 
-    let sum=10+30
-    console.log(sum)
+//     let sum=10+30
+//     console.log(sum)
 
-    console.log(15)
-    console.log(8)
-    console.log(2003)
+//     console.log(15)
+//     console.log(8)
+//     console.log(2003)
 
-    console.log("My nmae is Pragalanathan")
+//     console.log("My nmae is Pragalanathan")
 
-}
+// }
 
-print(),print(),print()
+// print(),print(),print()
+
 
