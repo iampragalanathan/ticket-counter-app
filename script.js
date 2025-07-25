@@ -61,10 +61,17 @@ function increament(){
     countEl.textContent=count
 }
 
+
 let saveEl=document.getElementById("save-el")
-let reset=0
 
-function decreament(){
 
+
+function save(){
+  
     
+    saveEl.textContent = saveEl.textContent  + count +"-"
+    count=0
+    countEl.textContent=  count - count
+
 }
+
