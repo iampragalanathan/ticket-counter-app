@@ -15,3 +15,16 @@ let num3=2003
 
 let sum=num1+num2+num3;
 console.log("The sum is" +sum)
+
+let num4=15
+let num5=8
+let num6=2003
+
+let joined=num4+num5+num6
+console.log(joined)
+
+let add1=10
+let add2=5
+
+let add="10"-add2
+console.log(add)
