@@ -28,3 +28,4 @@ let add2=5
 
 let add="10"-add2
 console.log(add)
+
