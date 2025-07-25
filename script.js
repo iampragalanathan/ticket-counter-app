@@ -71,7 +71,7 @@ function save(){
     
     saveEl.textContent = saveEl.textContent  + count +" - "
     count=0
-    countEl.textContent=  count - count
+    countEl.textContent=  0
 
 }
 
