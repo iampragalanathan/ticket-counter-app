@@ -75,3 +75,10 @@ function save(){
 
 }
 
+let lowEl=document.getElementById("decreament-btn")
+
+function decreament(){
+
+    count=count -1
+    countEl.textContent=count
+}
